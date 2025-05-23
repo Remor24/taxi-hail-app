@@ -1,0 +1,1 @@
+{ "name": "client", "dependencies": { "axios": "*", "react-router-dom": "*" } }

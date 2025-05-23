@@ -1,0 +1,1 @@
+// React register component (see earlier for full content)
