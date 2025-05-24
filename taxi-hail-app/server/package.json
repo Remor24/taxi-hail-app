@@ -1,1 +1,1 @@
-{ "name": "server", "dependencies": { "express": "*", "mongoose": "*", "cors": "*", "dotenv": "*", "bcryptjs": "*", "jsonwebtoken": "*" } }
+{"name":"server","dependencies":{"bcryptjs":"*","cors":"*","dotenv":"*","express":"*","jsonwebtoken":"*","mongoose":"*","uuid":"^11.1.0"}}
